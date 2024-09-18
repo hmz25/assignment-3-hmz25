@@ -1,0 +1,12 @@
+---
+title: "index"
+author: "Hannah"
+date: "2024-09-18"
+output: html_document
+---
+
+## this is a website for assignment 3 in NTRES 6100!
+the author is Hannah, she's collaborating with Josh on this assignment :) 
+
+## here's an image! 
+![josh took this awesome pic at one of our friends debut DJ set. Our other friends were busting a sick move!](/Users/hannahzonnevylle/github/assignment-3/C5326BCF-457E-420F-8975-5366177F8ECEIMG_0178.jpeg)

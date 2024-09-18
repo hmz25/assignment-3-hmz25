@@ -1,0 +1,13 @@
+---
+title: "hannah"
+author: "Hannah"
+date: "2024-09-18"
+output: html_document
+---
+
+## here are some things about me
+
+* I'm a second year PhD Student in Dr. Daniel Katz's lab at Cornell University
+* I study tree flowering and pollen production
+* I recently took up long distance running! I'm running my first marathon in November, so I spend most of my free time running with friends
+* I love to cook. My latest kitchen obsession is harissa, tahini, carrot/raisin salad
