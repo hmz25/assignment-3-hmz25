@@ -1,0 +1,15 @@
+---
+title: "josh"
+author: "josh felton"
+date: "2024-09-17"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+# joshua m felton <br>
+#### fun facts about josh <br>
+- he hates chocolate
+- he thinks music peaked in the 80s (maybe the 90s if were talking about house music)
+- hobbies are what drives him to continue to live
